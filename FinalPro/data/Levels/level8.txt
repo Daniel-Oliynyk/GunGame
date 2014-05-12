@@ -1,0 +1,41 @@
+100
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xh                   |      x                                        x       |                    hx
+xh   s               |       x                                      x   o    |                 o  hx
+xh                   |        x                                    x         |                    hx
+xxxxxxxxxxxxxxxxxx---xxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxx---xxxxxxxxxxxxxxxxxxxx
+x         |          x  hh x    x               h                x    x  hh x                      x
+x         |          x      x    x       o     xxx              x    x      x                    e x
+x         xx         x   o   x    x           x   x            x    x       xxx           xx       x
+x           x        x        x    x         x   o x          x    x        x  x         x  o      x
+x            x  hh   x                                                      x   xx      x          x
+x             xxxxx xx                                          h           x     x hh x           x
+xx                   x                                         xxxxxx       x      xxxx            x
+x x hh xxx           x     xx                                               x                      x
+x  xxxx o xxx        x       x                                              x            hh        x
+x                    x    o   x                                             x           xxxx       x
+x                    x         xxh                                          x          x    x      x
+x    xxxx            x                       xx---xx                        x         x   o  x     x
+x   xh               x                       xh   hx          x    o        x                 x    x
+x   x h o            x                       |  T  |           x            x                      x
+x   xh               x            x          |     |          hxxxxx        x  x     xx            x
+x    xxxx            x        o  x           xh o hx               x        x   x o x  x           x
+x                    x        xxx            xx---xx                x       x    xxx     x         x
+x               xx   x       x                                              x                      x
+x              x     x      x                                               x                      x
+x             x      x                                                      x         x         x  x
+x   xxxx     x       x             xxxx                                     x          x       x   x
+x  x  hhx o x        x                x                    xxxx             x           x o xxx    x
+x x      xxx         x             o  x                  xx    xx      o    x            xxx hh    x
+xx                   x                xh                                    x                      x
+x             xxxxx xx                 x                                    x    xxx               x
+x            x  hh   x                  x                                   x xxx hhxxx            x
+x           x     o  x   o    x    x     x                    x    x        xx         x           x
+x         xx         x       x    x          xxxx              x    x       x           x          x
+x         |          x      x    x        o    h x       o      x    x      x                      x
+x         |          x  hh x    x                 x              x    x  hh x                      x
+xxxxxxxxxxxxxxxxxx---xxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxx---xxxxxxxxxxxxxxxxxxxx
+xh                   |        x                                    x        |                     hx
+xh  o                |    o  x                                      x       |                  o  hx
+xh                   |      x                                        x      |                     hx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

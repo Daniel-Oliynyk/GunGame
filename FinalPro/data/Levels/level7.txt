@@ -1,0 +1,53 @@
+55
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+x             x            x     |   x         x       
+x  o       o  x         o  x     |   x     xxxxx       
+x             xxx--xxx     x  o  x---x     xxxxx       
+xxxxx--x--xxxxx      x     |     x         xxxxx       
+x             x  o   x     |     x             x       
+x              xxxxxxxxxxxxxxxxxx              xxxx    
+x                                      o       |   x   
+x                                              |    x  
+x                                              xx    x 
+x            xxxxxxxxxxxxxxxxxxxxxx---xx       xxx    x
+x            |   h       h              x      xxxx   x
+x            |        h             h   x      xxxx   x
+x    x---xxxxxxxx--xxxxxxxx---xxxxxxxxxxx      xxxx   x
+x    x       x        |                 x      xxxx o x
+x    x   o   x    o   |            o    x      xxxx   x
+x    xxxxx---x        x                 x      xxxx   x
+x             xxxxxxxxxx---xxxxxxxxxxxxx       xxxx  xx
+x                                           x oxxxx   x
+x                                            x xxxx   x
+xxxxxxxx                                      xxxxx   x
+x                                              xxxx   x
+x            xxxxxxxxxxxxxxx                   xxxx   x
+x           xxxxxxxxxxxxxxxxx         xxxx     xxxx   x
+x          xxxxxxxxxxxxxxxxx         xxxxxx    xxxx   x
+x   xx      xxxxxxxxxxxxxxx           xxxx     xxxx   x
+x  xxxx                                        xxxxx  x
+x  xxxx                                        xxxx   x
+x  xxxx                   xxxxx---xxxx         xxxx   x
+x   xx                   x           |         xxxx o x
+x              o         x  s        |         xxxx   x
+x                         xxxxx---xxxx         xxxx   x
+x                                              xxxx   x
+x                                              xxxx  xx
+x                                           x  xxxx   x
+x       xxxxxx---xxxxxxxxxxxxxxx            x oxxxx   x
+x       xxxxx           |      x             x xxxx   x
+x      xxxxxx           |   o  x              xxxxx   x
+x      xxxxxx     o     x      xxxxx---xxx     xxxx   x
+x      xxxxxx            xx---xx         x     xxxxx  x
+x       xxxxxxxx---xxxxxxxh    |     o   x     xxxx   x
+x      xx  h          h  |  o  |         x     xxxx   x
+x      xx        h       |    hxxxxx---xxx     xxxx   x
+x       xxx--xxxxxxxxx---xxxxxx                xxx    x
+x                                              xx  o x 
+x                                              |    x  
+x                                              |   x   
+xxx---xxxxxxxxxxx---xxxxxxxxxxxx           xxxxxxxx    
+x           x                  x          x    x       
+x    o                     o   x          |  o x       
+x                              x          |    x       
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       

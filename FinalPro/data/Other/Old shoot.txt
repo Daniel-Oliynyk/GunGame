@@ -1,0 +1,29 @@
+
+  void shoot() {
+    //Shoots the player's weapon.
+    if (gunCool < 1) {
+      //Shoots only if the gun cooled down.
+      lineAngle(x + 10, y + 10, 700, angle, 1, #000000);
+      gunCool = 20;
+      float dangle = degrees(angle) < 0? degrees(angle) + 360 : degrees(angle);
+        
+      for (Bot temp : bots) {
+        
+        float angle1 = atan2(temp.y - (y + 10), temp.x + temp.size - (x + 10));
+        float angle2 = atan2(temp.y + temp.size - (y + 10), temp.x - (x + 10));
+        angle1 = degrees(angle1) < 0? degrees(angle1) + 360 : degrees(angle1);
+        angle2 = degrees(angle2) < 0? degrees(angle2) + 360 : degrees(angle2);
+        if (dangle > angle1 && dangle < angle2) println("HIT " + random(5));
+        
+//        println(dangle + " | " + angle1 + " " + angle2);
+        
+        angle2 = atan2(temp.y - (y + 10), temp.x - (x + 10));
+        angle1 = atan2(temp.y + temp.size - (y + 10), temp.x + temp.size - (x + 10));
+        angle1 = degrees(angle1) < 0? degrees(angle1) + 360 : degrees(angle1);
+        angle2 = degrees(angle2) < 0? degrees(angle2) + 360 : degrees(angle2);
+        if (dangle > angle1 && dangle < angle2) println("hit " + random(5));
+        
+//        println(dangle + " 2 " + angle1 + " " + angle2);
+      }
+    }
+  }

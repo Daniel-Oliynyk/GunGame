@@ -1,0 +1,31 @@
+77
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x         |        x                       x                 x              x
+x         |        | o          o          x   h         h   x     o   h    x
+x         x        |                  o    x o         o     |              x
+x         x        x                       x                 |              x
+x    xxxxxx        x                       x                 x         h    x
+x    x             x                       x             xxxxx     o        x
+x    x             x   h  h      h         x             x   x              x
+x    x             x                       xxxxx----xxxxxx   xxxxxxxxxxxxxxxx
+x s  x             xxxxxxxxxxxxxxxxxx----xxx                                x
+xxxxxx                                                                      x
+x o  |                                                                o     x
+x h  |                                       o                              x
+xxxxxxxxx                                                                   x
+x       x          o                                                        x
+x   o   x                xxxxxxx----xxxxxxx                                 x
+x       |                x                x                     xxxxxx----xxx
+x       |                x       o        x                     x           x
+xxxxxxxxx                x                x                     x           x
+x                        x   h     h      x                     x           x
+x                        x                x                     x           x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             x           x
+x              x                  x               |             x           x
+x    h    h    x      o    o      x     o         |             x           x
+x              x                  x               x             xxxxxxxx    x
+x              x                  x               x             x      x    x
+x  o       o   |                  xxxxx----xxxxxxxx     o   o   x      x    x
+x              |                  |         o     x             x      |    x
+x              x                  |               x             x      |    x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

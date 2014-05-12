@@ -1,0 +1,10 @@
+
+    //Temporary code for switching guns.
+//    Gun temp = gun;
+//    if (keys.contains(49)) gun = new Gun();
+//    else if (keys.contains(50)) gun = new p90();
+//    else if (keys.contains(51)) gun = new shotgun();
+//    else if (keys.contains(52)) gun = new g39c();
+//    else if (keys.contains(53)) gun = new lmg();
+    //If a gun is changed, resets the variables.
+//    if (temp != gun) gun.reset();

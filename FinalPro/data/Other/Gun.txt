@@ -1,0 +1,8 @@
+
+  AK = loadImage("Guns/AK47.png");
+  DesertE = loadImage("Guns/DesertE.png");
+  Famas = loadImage("Guns/G39C.png");
+  LMG = loadImage("Guns/M249SAW.png");
+  P90 = loadImage("Guns/P90.png");
+  RPG = loadImage("Guns/RPG.png");
+  Shotgun = loadImage("Guns/Shotgun.png");

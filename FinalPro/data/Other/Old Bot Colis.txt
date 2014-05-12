@@ -1,0 +1,4 @@
+//    if (x + xDirection > map.maxWidth - size) xDirection = random(-7, 0);
+//    else if (x + xDirection < 0) xDirection = random(7);
+//    if (y + yDirection > map.maxHeight - size) yDirection = random(-7, 0);
+//    else if (y + yDirection < 0) yDirection = random(7);

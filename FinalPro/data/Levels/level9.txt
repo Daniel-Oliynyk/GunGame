@@ -1,0 +1,33 @@
+185
+xxxxxxxxxx                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                         xxxxxxxxxxxxxxxxxxx    
+x s      x                   x                     o      hx        x               x        hx                    o       o xx    h    x                        x  o    o         o x   
+xh      hx                   x       o                     |  o     x               x    o    |     o                    o   xx   h h   x                       x  o   o    o  o      x  
+xxxx--xxxx                   x              o              |        x               x         |            o     o           xx h     h x                      x     o    o       o  o x 
+x        x                   x      o                      |    o   x               x         |  o        o    o      o   o  xx         x                     x   o  xxxxxxxxxxxxxx     x
+x        x                   x                  o         hx        x               x   o    hx                              xx         x                     x      x            x o   x
+x        x                   x         xxxxxxxxxxxxxxxxxxxxx      o x               x        xx       o  xxxxxxxxxxxxxxxxxxxxxx    o    x                     x  o   |  h          x  o x
+x        x                   x         x                    x        x             x        x x          x                    x         x                     x    o | h      T    x    x
+x        x                   x         x                    x        x             x  o     x x o        x                    x   o o   x                     x  o   |  h          x  o x
+x        x                   x  o      x                    x  o     x             x        x x      o   x                    x         x                     x    o x            x     x
+x        x                   x         x                     x        x           x     o  x  x          x                    x o  o  o x                     x  o   xxxxxxxxxxxxxx  o  x
+x        x                   x         x                     x    o   x           x        x  x     o    x                    x         x                     x    o   o   o   o    h   x
+x        x                   x     o   x                     x        x           x  o     x  x    h     x                    x         x                      x  o  o  o  o     o    o x
+x        x                   x         xxxxxxxxxxxxxxxxxxxx   x        x         x        x   x          xxxxxxxxxxxxxxxxxxxxxx         x                       x   o   o    o o    o   x
+x        x                   x                            x   x  o     x         x        x   x  o    o     o                xx         x                        xxxxxxxxxxxxxxx o      x
+x     o  x                   x              o          o  x   x        x         x     o  x   x                     o    h o xx         x                                       x   o   x
+x        x                   x  o                 o      hx    x        x       x        x    x     o    o               h   xx         x                                        x    o x
+x  o     x                   x              o          o  x    x  o  o  x       x   o    x    x              o    o          xx         x                                         x     x
+x        x                   x       o                    x    x        x       x        x    x       o                  o   xx         x                                         x o o x
+x        x                   x         xxxxxxxxxxxxxxxxxxxx     x  o     x     x     o  x     x    o     xxxxxxxxxxxxxxxxxxxxxx         x                                         x  o  x
+x        x                   x         x                        x     o  x     x        x     x          x                    x         x                                         xo    x
+x     o  x                   x         x                        x        x     x        x     x          x                    x         x                                         x  o  x
+x        x                   x    o    x                         x        x   x        x      x   o      x                    x         x                                         x o   x
+x        x                   x         x                         x  o     x   x   o    x      x      o   x                    x         x                      xxxx               x     x
+x        x                   x         x                         x        x   x      o x      x          x                    x         x                     x    x             x   h  x
+x        x                   x      o  x                          x   o    x x        x       x          x                    x         x                    x      x           x       x
+x        xxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxx       x        x x   o    x       x   o      xxxxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxx   o  o xxxxxxxxxxx     o  x
+x                           hx                            x       x        x x        x       x       o           o          hx                            |              o       o     x 
+x                o           |           o          o     x        x       hxh       x        x  o         o        o   o     |                            |   x   o   o      o    o  x  
+x           o                |                 o          x        x   o o o o o o   x        x                o              |                            |  x x      o    o    o   x   
+x                     o     hx                            x         x               x         x       o            o      o  hx                            | x   x   o     o    o   x    
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xxxxxxxxxxxxxxx          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxx     

@@ -1,0 +1,41 @@
+45
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      h        x              |            x
+x  o       o    x     o        |     h      x
+x               x            xxxxx          x
+x               x       o   x     x         x
+x       o       x          x      x    o    x
+x                     hh   x      x         x
+xxx---xxxxxxxx     xxxxxxxxx       xxx---xxxx
+x                                           x
+x                                           x
+x                                x          x
+x       x h x         xxxx        x         x
+x        x x         x             xxxxxxxxxx
+x      h  x          x hhh                  x
+x        x x         x                      x
+x       x o x         xxxx                  x
+x                                           x
+x                                           x
+x                            xxxxxx         x
+x                                           x
+x               xxxx---xxxx                 x
+x               x         x                 x
+x               |         |                 x
+x               |    s    |                 x
+x               x         x                 x
+x               xxxx---xxxx    x            x
+x       xx                      xxx         x
+x         x                    x            x
+x          x                                x
+x                                           x
+x             xxxxx       xxxxxxx---xxxxxxxxx
+x                         x                 x
+x                         x  o          o   x
+xxx---xxxxxxx       xxxxxx                  x
+x            x     x  h  x        h         x
+x             x---x   o  x        h         x
+x                        |   o    h     o   x
+x  hh                    |                  x
+x                        x                  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
